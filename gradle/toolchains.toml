@@ -1,0 +1,6 @@
+[toolchains]
+jvm {
+    source = "auto"
+    detection = ["installation", "distribution"]
+    priority = "distribution"
+}
