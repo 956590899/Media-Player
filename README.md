@@ -3,7 +3,7 @@
 > 一款 **本地优先、全协议、音视频一体化** 的 Android 媒体播放器。
 > 兼顾 **手机触控**（音频播放器 + 全屏视频）与 **电视盒子遥控器**（TV 模式）两种操作方式，
 > 主打：多网络协议访问、ASS/SSA 字幕、卡拉 OK 歌词、DLNA 投屏、专业十段均衡器。
-
+点击链接加入群聊【《媒体播放器》 交流】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1wOIcIVqkGHn96qutyAqcQx1UPZ9QGFG&authKey=nz88i%2Fmvusa6ivLLk3pxK0MZtjQ4vP86BgzuVvQNBNhqukA%2B4gSMfYjdIeWRtDdF&noverify=0&group_code=649768753
 ---
 
 ## 目录
